@@ -10,7 +10,7 @@ JavaScript - Python - C++ - C - Assembly
 # Collabs
 
 ### Teams: 
-[**Ethical-Hacking-Italia**](https://github.com/Ethical-Hacking-Italia),
+[Ethical-Hacking-Italia](https://github.com/Ethical-Hacking-Italia),
 [pl-apps](https://github.com/pl-apps)
 
 ### People: 
