@@ -6,7 +6,7 @@ All projects on: https://github.com/pl-Apps/
  
 Skills: JavaScript - Python - C++ - C - Assembly
 
-Teams: [Ethical-Hacking-Italia](https://github.com/Ethical-Hacking-Italia), [pl-apps](https://github.com/pl-apps)
+Teams: [Ethical-Hacking-Italia](https://github.com/Ethical-Hacking-Italia), [pl](https://github.com/pl-apps)
 
 People: [C0mpl3x](https://github.com/C0MPL3XDEV), [iurim581](https://github.com/iurim581), [JProgrammer-it ](https://github.com/JProgrammer-it)
 
