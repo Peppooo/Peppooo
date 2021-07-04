@@ -12,7 +12,7 @@ People: [C0mpl3x](https://github.com/C0MPL3XDEV), [iurim581](https://github.com/
 
 Sites: <a href="https://peppooo.web.app">Portfolio</a>
 
+Discord: Peppo#1234
+
 Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peppooo&layout=compact" alt="C0MPL3X" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peppooo&show_icons=true" alt="Peppo" />
-
-<p>Discord: Peppo#1234</p>
