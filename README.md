@@ -1,9 +1,8 @@
  # Hi I'm Peppo!
  
- <h4>I am an young Italian Programmer</h4>
- <img src="https://jprogrammerit.web.app/topo_animato.gif" width="80">
+<h4>I am an young Italian Programmer</h4>
  
- # Skills
+# Skills
 JavaScript - Python - C++ - C - Assembly
 
 # Collabs
