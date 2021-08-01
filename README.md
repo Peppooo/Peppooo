@@ -15,4 +15,5 @@ Sites: <a href="https://peppooo.web.app">Portfolio</a>, <a href="https://ppmjs.c
 Discord: Peppo#1234
 
 Stats
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peppooo&layout=compact" alt="C0MPL3X" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peppooo&show_icons=true" alt="Peppo" />
